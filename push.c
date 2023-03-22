@@ -4,7 +4,7 @@
  * @head: stack head
  * @counter: line_number
  * Return: no return
-*/
+ */
 
 /* Nice22 DavidSweeft */
 void f_push(stack_t **head, unsigned int counter)
